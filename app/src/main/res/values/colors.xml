@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Original painting colors -->
+    <color name="redM">#660a0a</color>
+    <color name="yellowM">#c9831d</color>
+    <color name="blueM">#021940</color>
+    <color name="greenM">#aeae91</color>
+    <color name="blackM">#0d0606</color>
+
+    <!-- Misc. colors -->
+    <color name="violet">#560646</color>
+    <color name="aqua">#1dc9b5</color>
+    <color name="grass">#7c800b</color>
+    <color name="sand">#aea191</color>
+    <color name="brightRed">#b71c1c</color>
+    <color name="brightYellow">#ffb74d</color>
+    <color name="brightBlue">#448aff</color>
+    <color name="brightViolet">#8244ff</color>
+    <color name="darkGreen">#244818</color>
+
+    <!-- Background colors -->
+    <color name="grey">#878787</color>
+    <color name="lightGrey">#b4b3b3</color>
+
+</resources>
